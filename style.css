@@ -1,0 +1,20 @@
+body {
+  min-width: 372px;
+}
+
+.wrapper {
+  min-height: 100vh;
+}
+
+.wrapper80{
+  min-height:80vh;
+}
+.explore_mais{
+  height: 166px;
+  width: 300px;
+  padding-top: 65px;
+}
+
+.right_color {
+  background-color: lightgray;
+}
